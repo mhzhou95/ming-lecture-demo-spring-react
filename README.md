@@ -2,7 +2,7 @@
 
 This repository is a demo application that demonstrates a connection between a SpringBoot backend and a React JS frontend.
 
-#Steps
+# Steps
 
 * First Start up the SpringBoot server by going into springBootTemplate directory and opening the pom file with Inteliji.
 * Next just run JavaSpringBootTemplateApplication and server will start on port 8080.
